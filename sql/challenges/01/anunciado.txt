@@ -1,0 +1,15 @@
+A Softblue (www.softblue.com.br) está contratando você como DBA (Database
+Administrator) para que você crie um banco de dados para gerenciar as matrículas dos
+alunos da Softblue. Neste banco de dados deverá estar armazenado as informações
+dos cursos disponibilizados pela Softblue, como nome, tipo (se é de banco de dados,
+programação ou outro), preço e os dados do instrutor responsável pelo curso (nome e
+telefone).
+Neste mesmo banco de dados deve ser armazenado as informações dos alunos da
+Softblue (nome, endereço e e-mail) bem como todos os cursos que o aluno já se
+matriculou. Assim como no site www.softblue.com.br ocorre, deve ser possível
+comprar dois ou mais cursos em um mesmo pedido, armazenando data e hora da
+compra.
+Leve em consideração que todas as informações dos alunos, cursos e instrutores
+poderão ser alteradas a qualquer tempo. Popule as tabelas criadas com alguns
+exemplos fictícios.
+Todas as chaves estrangeiras apresentadas neste exemplo são consideradas índices.
